@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-💼 Engineering Manager in fintech (payments, checkout, scale)  
+💼 Engineering Architect in fintech (payments, checkout, scale)  
 ⚙️ Java, Spring Boot, Microservices, Angular, React, TypeScript  
 🧠 Exploring AI agents & automation  
 🏗️ Startups, products & practical innovation  
@@ -20,14 +20,6 @@ Java • Spring Boot • Angular • React • TypeScript • Docker • Kuberne
 - Curating **Free Stack** repo (dev resources)  
 - Learning AI + product thinking  
 - Experimenting with lightweight apps & architectures  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratiyush&show_icons=true&hide_title=true&count_private=true&hide=contribs" height="120" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiyush&hide_title=true" height="120" />
-</p>
 
 ---
 
